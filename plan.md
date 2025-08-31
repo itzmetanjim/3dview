@@ -176,4 +176,6 @@ BUT WE DONT NEED TORQUE! we just need speed! this is not a robot vehicle.
 
 # protocol
 
-ahh time to work on a hard part
+ahh time to work on a hard part!
+time now: 11:05 pm
+i will work later
