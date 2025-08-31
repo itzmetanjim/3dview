@@ -1,2 +1,2 @@
-# 3dview
-A volumetric display
+# 3DView
+3DView is a volumetric display.
